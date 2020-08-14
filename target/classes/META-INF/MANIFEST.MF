@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pravinderreddy
+Build-Jdk: 14.0.2
+Implementation-Title: angular-spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/angular-spring
+Created-By: Maven Integration for Eclipse
+
