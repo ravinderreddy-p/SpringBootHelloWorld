@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "employee-management"
+    }
+  },
+  "defaultProject": "employee-management",
+  "cli": {
+    "analytics": "3c6afbcd-7442-4ab2-919a-1fdf226cbcd3"
+  }
 }
